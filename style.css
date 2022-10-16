@@ -1,0 +1,55 @@
+#cercle {
+    margin-top:1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    height: 8em;
+    border-top-left-radius:15em;
+    border-bottom-left-radius:15em;
+    border-bottom-right-radius:15em;
+    border-top-right-radius:1em;
+    background: #FE5300;
+    
+}
+
+#inner_cercle {
+    margin-top:1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    border-radius: 15em;
+    width: 5em;
+    height: 5em;
+    background: whitesmoke;  
+}
+/*
+#cercle2 {
+    width: 150px;
+    height: 150px;
+    border-top-left-radius:75px;
+    border-top-right-radius:3px;
+    border-bottom-left-radius:75px;
+    border-bottom-right-radius:75px;
+    background: #575757;
+    transform : rotate(-45deg);
+}
+
+#cercle3 {
+    width: 150px;
+    height: 150px;
+    border-top-left-radius:75px;
+    border-bottom-left-radius:75px;
+    border-bottom-right-radius:75px;
+    border-top-right-radius:3px;
+    background: #575757;
+    transform : rotate(-65deg);
+}
+*/
+#text-icone {
+    font-family :"Arial", Times, serif;
+    font-size : 4em;
+    color : #575757;
+    text-align:center;
+}
